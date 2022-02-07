@@ -1,5 +1,6 @@
 #headpage {
         background-color: #D2ACC9;
+        overflow: hidden;
     }
 
 #conts {
@@ -7,7 +8,8 @@
     width: 100%;
     height: 500px;
     background-color: #D2ACC9;
-    margin: 10px;
+    margin: 0 auto;
+    background-position: center;
 }
 
 #heder {
@@ -50,6 +52,7 @@
 #wave {
     height: 50px;
     width: 3000px;
+    background-position: center;
     }
 
 #secondpage {
@@ -60,7 +63,7 @@
     width: 100%;
     height: 650px;
     background-color: white;
-    margin: 10px;
+    margin: 0 auto;
 }  
 
 #zagolovok {
@@ -104,6 +107,7 @@
     max-width: 1440px;
     width: 100%;
     height: 360px;
+    margin: 0 auto;
     background-color: white;
     
 }
@@ -154,7 +158,7 @@
     width: 100%;
     height: 400px;
     background-color: white;
-    margin: 10px;
+    margin: 0 auto;
 }
 
 #silnie {
@@ -193,7 +197,7 @@
     width: 100%;
     height: 600px;
     background-color: white;
-    margin: 10px;
+    margin: 0 auto;
 }
 
 #raboti {
@@ -243,6 +247,7 @@
     background-color: #D2ACC9;
     padding-left: 25px;
     padding-right: 25px;
+    margin: 0 auto;
 }
 
 #svyaz {
